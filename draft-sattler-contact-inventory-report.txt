@@ -107,7 +107,7 @@ Internet-Draft         Contact Inventory Report             January 2019
    The first row MUST be the column headings in the following order:
    
    CONTACTID         It MUST contain the server-unique identifier of
-                     of the contact object.
+                     of the contact-object.
    
    UPDATED           It MUST contain the date and time of the most
                      recent contact-object modification. If the contact
@@ -116,8 +116,8 @@ Internet-Draft         Contact Inventory Report             January 2019
                      Formatting in both cases according to section 2.1
                      of this document.
                      
-   INUSE             It MUST either be 0 if the contact object is not
-                     linked to a domain object or 1 if it is linked.
+   INUSE             It MUST either be 0 if the contact-object is not
+                     linked to a domain-object or 1 if it is linked.
 
    ID                It MUST contain an unique ID according to section 4
                      of this document.
