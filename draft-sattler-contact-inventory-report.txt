@@ -115,6 +115,9 @@ Internet-Draft         Contact Inventory Report             January 2019
                      time of contact-object creation has to be used.
                      Formatting in both cases according to section 2.1
                      of this document.
+                     
+   INUSE             It MUST either be 0 if the contact object is not
+                     linked to a domain object or 1 if it is linked.
 
    ID                It MUST contain an unique ID according to section 4
                      of this document.
@@ -132,11 +135,11 @@ Internet-Draft         Contact Inventory Report             January 2019
    
    Filename: contact-inventory_2019-01-01.csv.gz
    
-   CONTACTID,UPDATED,ID
-   sh8013,2018-12-30T07:00:00Z,1
-   sh8014,2018-12-30T09:00:15Z,1
-   sh8015,2018-12-31T09:03:22Z,1
-   sh8016,2018-12-31T10:18:56Z,1
+   CONTACTID,UPDATED,INUSE,ID
+   sh8013,2018-12-30T07:00:00Z,0,1
+   sh8014,2018-12-30T09:00:15Z,1,1
+   sh8015,2018-12-31T09:03:22Z,1,1
+   sh8016,2018-12-31T10:18:56Z,0,1
 
 6.  IANA Considerations
 
