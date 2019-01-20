@@ -1,7 +1,5 @@
 Contact Inventory Report
 =================
-[![License](https://img.shields.io/badge/license-unlicensed-blue.svg?style=flat)](/LICENSE)
-[![Twitter](https://img.shields.io/badge/Twitter-tobiassattler-blue.svg)](https://twitter.com/tobiassattler)
 
 ## Goal
 The goal is to draft a Contact Inventroy Report based on the [Report Structure] and shall be delivered through the [Reporting Repository].
