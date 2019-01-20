@@ -1,15 +1,18 @@
-## Contact Inventory Report
+Contact Inventory Report
+=================
+[![License](https://img.shields.io/badge/license-unlicensed-blue.svg?style=flat)](/LICENSE)
+[![Twitter](https://img.shields.io/badge/Twitter-tobiassattler-blue.svg)](https://twitter.com/tobiassattler)
 
-### Goal
+## Goal
 The goal is to draft a Contact Inventroy Report based on the [Report Structure] and shall be delivered through the [Reporting Repository].
 
-### Status
+## Status
 The idea to create the Repository, the Structure and numerous Reports was first raised in the ICANN Registrar Stakeholder Group ([RrSG]) Technical and Operational ([TechOps]) Subcommittee, and further discussed and eventually approved in the [CPH TechOps] Group.
 
-### Validation
+## Validation
 The draft is written in IETF RFC style. Therefore, you may validate this [draft] with https://tools.ietf.org/tools/idnits/
 
-### License
+## License
 This is free and unencumbered software released into the public domain. For more info, please read the [LICENSE] file distributed.
 
 [RrSG]: http://icannregistrars.org
