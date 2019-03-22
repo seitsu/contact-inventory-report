@@ -1,10 +1,10 @@
 Internet Engineering Task Force                       T. Sattler, Editor
 Internet-Draft                                              
 Intended status: Best Current Practice                         
-Expires: July 28, 2019                                  January 29, 2019
+Expires: September 23, 2019                               March 24, 2019
 
                          Contact Inventory Report
-                 draft-sattler-contact-inventory-report-00
+                 draft-sattler-contact-inventory-report-01
 
 Abstract
 
@@ -27,7 +27,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress".
 
-   This Internet-Draft will expire on July 28, 2019.
+   This Internet-Draft will expire on September 23, 2019.
 
 Copyright Notice
 
@@ -44,9 +44,9 @@ Copyright Notice
    the Trust Legal Provisions and are provided without warranty as
    described in the Simplified BSD License.
 
-Sattler                  Expires July 28, 2019                  [Page 1]
+Sattler                Expires September 23, 2019               [Page 1]
 
-Internet-Draft         Contact Inventory Report             January 2019
+Internet-Draft          Contact Inventory Report              March 2019
 
 Table of Contents
    1.  Introduction  . . . . . . . . . . . . . . . . . . . . . . . .   2
@@ -62,24 +62,25 @@ Table of Contents
      9.1.  Normative References  . . . . . . . . . . . . . . . . . .   4
      9.2.  Informative References  . . . . . . . . . . . . . . . . .   4
    Appendix A.  Change History . . . . . . . . . . . . . . . . . . .   5
+     A.1.  Change from 00 to 01  . . . . . . . . . . . . . . . . . .   5
    Appendix B.  Acknowledgements . . . . . . . . . . . . . . . . . .   5
    Author's Address  . . . . . . . . . . . . . . . . . . . . . . . .   5
 
 1.  Introduction
 
-   Modern top-level domain registries provide a number of detailed
-   reports and documents that their registrars require on a daily,
-   weekly and monthly basis. These most commonly include transaction
-   reports, as well as lists containing currently unavailable domains
-   and current premium domain fees. These reports are critical for
-   registrars' businesses and play an important role in accounting and
-   operations processes as well as in sales and marketing activities.
-   In the current set-up registrars must download these reports from
-   each registry's intranet in a different manner according to each
-   registry's own document management set up.
+   Modern top-level domain registries provide many detailed reports and
+   documents that their registrars require on a daily, weekly and
+   monthly basis. These most commonly include transaction reports, as
+   well as lists containing currently unavailable domains and current
+   premium domain fees. These reports are critical for registrars'
+   businesses and play an important role in accounting and operations
+   processes as well as in sales and marketing activities. In the
+   current set-up, registrars must download these reports from each
+   registry's intranet differently according to each registry's document
+   management set up.
    
    A contact inventory comparison between the contacts that are on an
-   accreditation / account and the contacts that a registrar / reseller
+   accreditation/account and the contacts that a registrar/reseller
    has in its system is therefore useful.
    
    This document describes the content of a Contact Inventory Report
@@ -98,33 +99,33 @@ Table of Contents
    MUST be as defined in
    [I-D.mcpherson-sattler-report-structure].
    
-Sattler                  Expires July 28, 2019                  [Page 2]
+Sattler                Expires September 23, 2019               [Page 2]
 
-Internet-Draft         Contact Inventory Report             January 2019
+Internet-Draft          Contact Inventory Report              March 2019
 
 3.  Report Headings
 
    The first row MUST be the column headings in the following order:
    
-   CONTACTID         It MUST contain the server-unique identifier of
-                     of the contact-object.
+   CONTACTID         It MUST contain the server-unique identifier of the
+                     contact-object.
    
    UPDATED           It MUST contain the date and time of the most
                      recent contact-object modification. If the contact
                      object has never been modified, then the date and
-                     time of contact-object creation has to be used.
+                     time of contact-object creation have to be used.
                      Formatting in both cases according to section 2.1
                      of this document.
                      
    INUSE             It MUST either be 0 if the contact-object is not
-                     linked to a domain-object or 1 if it is linked.
+                     linked to a domain-object or 1 if it is bound.
 
-   ID                It MUST contain an unique ID according to section 4
+   ID                It MUST contain a unique ID according to section 4
                      of this document.
                      
 4.  Unique ID
 
-   A unique ID MUST either be according the IANA registrar IDs
+   A unique ID MUST either be according to the IANA registrar IDs
    (https://www.iana.org/assignments/registrar-ids/registrar-ids.xhtml)
    where applicable or another unique registrar or reseller ID MUST be
    used.
@@ -150,9 +151,9 @@ Internet-Draft         Contact Inventory Report             January 2019
    The contact inventory report described in this document does not
    provide any security services.
    
-Sattler                  Expires July 28, 2019                  [Page 3]
+Sattler                Expires September 23, 2019               [Page 3]
 
-Internet-Draft         Contact Inventory Report             January 2019
+Internet-Draft          Contact Inventory Report              March 2019
 
 8.  Implementation Status
 
@@ -206,11 +207,15 @@ Internet-Draft         Contact Inventory Report             January 2019
               7942, July 2016,
               <https://www.rfc-editor.org/info/rfc7942>.
               
-Sattler                  Expires July 28, 2019                  [Page 4]
+Sattler                Expires September 23, 2019               [Page 4]
 
-Internet-Draft         Contact Inventory Report             January 2019
+Internet-Draft          Contact Inventory Report              March 2019
 
 Appendix A.  Change History
+
+A.1.  Change from 00 to 01
+
+   Editorial changes.
 
 Appendix B.  Acknowledgements
 
@@ -224,5 +229,5 @@ Author's Address
    Email: tobias.sattler@me.com
    URI:   https://tobiassattler.com
 
-Sattler                  Expires July 28, 2019                  [Page 5]
+Sattler                Expires September 23, 2019               [Page 5]
 
