@@ -240,7 +240,7 @@ A.1.  Change from 00 to 01
 
 A.1.  Change from 01 to 02
    
-   Added united-domains Reselling as PoC for implementation. 
+   Added implementation reference.
 
 Appendix B.  Acknowledgements
 
