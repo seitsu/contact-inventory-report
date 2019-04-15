@@ -237,14 +237,16 @@ A.1.  Change from 00 to 01
 
    Editorial changes.
 
-A.1.  Change from 01 to 02
+A.2.  Change from 01 to 02
    
-   Added implementation reference.
+   Added implementation reference. Added acknowledgement.
 
 Appendix B.  Acknowledgements
 
    The author wishes to thank the following persons for their feedback
    and suggestions (sorted alphabetically by company):
+   
+   o Tim Ettel, united-domains
    
 Author's Address
 
