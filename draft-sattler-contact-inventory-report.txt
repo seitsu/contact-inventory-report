@@ -1,10 +1,10 @@
 Internet Engineering Task Force                       T. Sattler, Editor
 Internet-Draft                                              
 Intended status: Best Current Practice                         
-Expires: October 14, 2019                                 April 15, 2019
+Expires: December 18, 2019                                 June 19, 2019
 
                          Contact Inventory Report
-                 draft-sattler-contact-inventory-report-02
+                 draft-sattler-contact-inventory-report-03
 
 Abstract
 
@@ -27,7 +27,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress".
 
-   This Internet-Draft will expire on October 14, 2019.
+   This Internet-Draft will expire on December 18, 2019.
 
 Copyright Notice
 
@@ -44,9 +44,9 @@ Copyright Notice
    the Trust Legal Provisions and are provided without warranty as
    described in the Simplified BSD License.
 
-Sattler                 Expires October 14, 2019                [Page 1]
+Sattler                 Expires December 18, 2019               [Page 1]
 
-Internet-Draft          Contact Inventory Report              April 2019
+Internet-Draft          Contact Inventory Report               June 2019
 
 Table of Contents
    1.  Introduction  . . . . . . . . . . . . . . . . . . . . . . . .   2
@@ -65,6 +65,7 @@ Table of Contents
    Appendix A.  Change History . . . . . . . . . . . . . . . . . . .   5
      A.1.  Change from 00 to 01  . . . . . . . . . . . . . . . . . .   5
      A.2.  Change from 01 to 02  . . . . . . . . . . . . . . . . . .   5
+     A.3.  Change from 02 to 03  . . . . . . . . . . . . . . . . . .   5
    Appendix B.  Acknowledgements . . . . . . . . . . . . . . . . . .   5
    Author's Address  . . . . . . . . . . . . . . . . . . . . . . . .   5
 
@@ -96,14 +97,9 @@ Table of Contents
    document are to be interpreted as described in [RFC2119] when
    specified in their uppercase forms.
    
-2.1.  Dates and Times
-
-   MUST be as defined in
-   [I-D.mcpherson-sattler-report-structure].
-   
-Sattler                 Expires October 14, 2019                [Page 2]
+Sattler                 Expires December 18, 2019               [Page 2]
 
-Internet-Draft          Contact Inventory Report              April 2019
+Internet-Draft          Contact Inventory Report               June 2019
 
 3.  Report Headings
 
@@ -153,9 +149,9 @@ Internet-Draft          Contact Inventory Report              April 2019
    The contact inventory report described in this document does not
    provide any security services.
    
-Sattler                 Expires October 14, 2019                [Page 3]
+Sattler                 Expires December 18, 2019               [Page 3]
 
-Internet-Draft          Contact Inventory Report              April 2019
+Internet-Draft          Contact Inventory Report               June 2019
 
 8.  Implementation Status
 
@@ -202,7 +198,7 @@ Internet-Draft          Contact Inventory Report              April 2019
 
    URL: https://www.ud-reselling.com/en/
    
-Sattler                 Expires October 14, 2019                [Page 4]
+Sattler                 Expires December 18, 2019               [Page 4]
 
 Internet-Draft          Contact Inventory Report              March 2019
 
@@ -240,6 +236,10 @@ A.1.  Change from 00 to 01
 A.2.  Change from 01 to 02
    
    Added implementation reference. Added acknowledgement.
+   
+A.3.  Change from 02 to 03
+
+   Simplified this document.
 
 Appendix B.  Acknowledgements
 
@@ -255,5 +255,5 @@ Author's Address
    Email: tobias.sattler@me.com
    URI:   https://tobiassattler.com
 
-Sattler                 Expires October 14, 2019                [Page 5]
+Sattler                 Expires December 18, 2019               [Page 5]
 
