@@ -51,7 +51,6 @@ Internet-Draft          Contact Inventory Report               June 2019
 Table of Contents
    1.  Introduction  . . . . . . . . . . . . . . . . . . . . . . . .   2
    2.  Terminology and Definitions . . . . . . . . . . . . . . . . .   2
-     2.1.  Dates and Times . . . . . . . . . . . . . . . . . . . . .   2
    3.  Report Headings . . . . . . . . . . . . . . . . . . . . . . .   3
    4.  Unique ID . . . . . . . . . . . . . . . . . . . . . . . . . .   3
    5.  Example . . . . . . . . . . . . . . . . . . . . . . . . . . .   3
