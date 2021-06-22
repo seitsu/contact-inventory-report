@@ -7,6 +7,8 @@ The goal was to draft a Contact Inventory Report based on the [Report Structure]
 ## Status
 The idea to create the Repository, the Structure and numerous Reports was first raised by the ICANN Registrar Stakeholder Group ([RrSG]) Technical and Operational ([TechOps]) Subcommittee, and further discussed and eventually approved in the [CPH TechOps] Group.
 
+This document is **not active** anymore. We abandoned it in favor of [Simple Registration Reporting].
+
 ## Validation
 The draft is written in IETF RFC style. Therefore, you may validate this [draft] with https://tools.ietf.org/tools/idnits/.
 
